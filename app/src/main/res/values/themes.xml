@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Theme.MaterialComponents.DayNight.NoActionBar est fourni par
+        com.google.android.material:material (ajouté dans build.gradle.kts).
+        Ne pas utiliser Theme.Material3.* directement ici car AAPT ne le trouve pas
+        sans la bibliothèque Material explicitement déclarée.
+    -->
+    <style name="Theme.AgriSuivi" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+</resources>

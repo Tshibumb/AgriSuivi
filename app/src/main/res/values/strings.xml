@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AgriSuivi</string>
+    <string name="dashboard_title">Tableau de bord</string>
+    <string name="add_culture">Nouvelle culture</string>
+    <string name="no_cultures">Aucune culture en cours</string>
+    <string name="days_remaining">jours restants</string>
+    <string name="harvest_today">Récolte aujourd\'hui !</string>
+    <string name="overdue">En retard</string>
+</resources>

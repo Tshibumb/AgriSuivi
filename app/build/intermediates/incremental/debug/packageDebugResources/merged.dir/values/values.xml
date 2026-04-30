@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="earth_brown">#795548</color>
+    <color name="forest_green">#2D6A4F</color>
+    <color name="ic_launcher_background">#2D6A4F</color>
+    <color name="ic_launcher_foreground">#FFFFFF</color>
+    <color name="sunflower_yellow">#F9A825</color>
+    <string name="add_culture">Nouvelle culture</string>
+    <string name="app_name">AgriSuivi</string>
+    <string name="dashboard_title">Tableau de bord</string>
+    <string name="days_remaining">jours restants</string>
+    <string name="harvest_today">Récolte aujourd\'hui !</string>
+    <string name="no_cultures">Aucune culture en cours</string>
+    <string name="overdue">En retard</string>
+    <style name="Theme.AgriSuivi" parent="Theme.MaterialComponents.DayNight.NoActionBar"/>
+</resources>

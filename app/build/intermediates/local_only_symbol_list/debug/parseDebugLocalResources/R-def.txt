@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color earth_brown
+color forest_green
+color ic_launcher_background
+color ic_launcher_foreground
+color sunflower_yellow
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_leaf
+mipmap ic_launcher
+mipmap ic_launcher_round
+string add_culture
+string app_name
+string dashboard_title
+string days_remaining
+string harvest_today
+string no_cultures
+string overdue
+style Theme.AgriSuivi
+xml backup_rules
+xml data_extraction_rules
+xml file_paths

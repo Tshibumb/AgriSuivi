@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#2D6A4F</color>
+    <color name="ic_launcher_foreground">#FFFFFF</color>
+    <color name="forest_green">#2D6A4F</color>
+    <color name="earth_brown">#795548</color>
+    <color name="sunflower_yellow">#F9A825</color>
+</resources>
